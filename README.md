@@ -1,4 +1,13 @@
-Projeto desenvolvido no curso de React JS do Sujeito Programador!
-A estilização no CSS foi feita por mim mesmo, e o React foi com os conhecimentos obtidos em aula.
+# Biscoitinho da sorte
 
-Para interagir e ver o projeto: https://biscoitinho-da-sorte.vercel.app/
+Projeto em ReactJS fazendo um cronômetro simples.
+
+Projeto desenvolvido durante o curso Fábrica de Aplicativos do Matheus Fraga.
+
+### Instalação
+-`npm install`
+
+### Para rodar
+-`npm start`
+
+Link da demo: https://biscoitinho-da-sorte.vercel.app/
