@@ -1,13 +1,40 @@
 # Biscoitinho da sorte
 
-Projeto em ReactJS fazendo um cronômetro simples.
+![image](https://user-images.githubusercontent.com/78622458/161398337-2abae190-16e9-4707-8107-6c4393e35e98.png) 
+![image](https://user-images.githubusercontent.com/78622458/161398356-9487a860-fc31-4887-a4b9-cf1d4901feb6.png)
+![image](https://user-images.githubusercontent.com/78622458/161398366-7cc8daff-fded-486c-ab8d-8882153766b1.png)
 
-Projeto desenvolvido durante o curso Fábrica de Aplicativos do Matheus Fraga.
 
-### Instalação
+
+### 🔖 Sobre
+Biscoitinho da sorte, projeto desenvolvido para colocar em prática os conceitos aprendidos sobre states e setState. O projeto consiste em aleatoriamente mostrar uma frase quando o usuário aperta o botão. O projeto é simples, foi feito como exercício no curso Fábrica de aplicativos.
+    
+### 🚀 Tecnologias
+Esse projeto foi desenvolvido utilizando a seguinte tecnologia:
+
++ ReactJs
+
+### 🔥 Pré-requisitos
++ Node.js <br/>
++ NPM ou Yarn 
+
+### ⚡ Como usar
+Faça um clone desse repositório: git clone https://github.com/felpsalvs/biscoitinho-da-sorte.git <br/>
+Instale as dependências: yarn ou npm install <br/>
+    
+##### Instalação
 -`npm install`
 
-### Para rodar
+##### Para rodar
 -`npm start`
 
-Link da demo: https://biscoitinho-da-sorte.vercel.app/
+Link da demo: https://biscoitinho-da-sorte.vercel.app/ <br/>
+### Autor
+Felipe Alves <br/><br/>
+
+
+Entre em contato comigo, para conexão, sugestão ou dúvida! <br/>
+
+profelipealves@outlook.com <br/>
+
+https://www.linkedin.com/in/felipe-alves7/
