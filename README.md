@@ -7,7 +7,7 @@
 
 
 ### 🔖 Sobre
-Biscoitinho da sorte, projeto desenvolvido para colocar em prática os conceitos aprendidos sobre states e setState. O projeto consiste em aleatoriamente mostrar uma frase quando o usuário aperta o botão. O projeto é simples, foi feito como exercício no curso Fábrica de aplicativos.
+Biscoitinho da sorte, projeto desenvolvido para colocar em prática os conceitos aprendidos sobre states e setState. O projeto consiste em aleatoriamente mostrar uma frase quando o usuário aperta o botão. O projeto foi feito como exercício no curso Fábrica de aplicativos.
     
 ### 🚀 Tecnologias
 Esse projeto foi desenvolvido utilizando a seguinte tecnologia:
