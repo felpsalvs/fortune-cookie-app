@@ -1,8 +1,8 @@
 # Biscoitinho da sorte
 
-![image](https://user-images.githubusercontent.com/78622458/161398337-2abae190-16e9-4707-8107-6c4393e35e98.png) 
+
 ![image](https://user-images.githubusercontent.com/78622458/161398356-9487a860-fc31-4887-a4b9-cf1d4901feb6.png)
-![image](https://user-images.githubusercontent.com/78622458/161398366-7cc8daff-fded-486c-ab8d-8882153766b1.png)
+
 
 
 
