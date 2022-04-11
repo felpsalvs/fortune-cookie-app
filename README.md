@@ -1,4 +1,4 @@
-# Biscoitinho da sorte
+# Biscoitinho da Sorte
 
 
 ![image](https://user-images.githubusercontent.com/78622458/161398356-9487a860-fc31-4887-a4b9-cf1d4901feb6.png)
