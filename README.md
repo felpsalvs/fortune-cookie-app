@@ -13,14 +13,3 @@ This project was developed using the following technology:
 + Node.js <br/>
 + NPM or Yarn 
 
-### ⚡ How to use
-Make a clone of this repository: git clone https://github.com/felpsalvs/biscoitinho-da-sorte.git <br/>
-Install dependencies: yarn or npm install <br/>
-    
-##### Installation
--`npm install`
-
-##### To run
--`npm start`
-
-Demo link: https://biscoitinho-da-sorte.vercel.app/ <br/>
